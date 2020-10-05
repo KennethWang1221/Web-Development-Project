@@ -1,0 +1,154 @@
+﻿<!doctype html>
+<html lang="en">
+ <head>
+  <meta charset="UTF-8">
+  <meta name="Generator" content="EditPlus®">
+  <meta name="Author" content="">
+  <meta name="Keywords" content="">
+  <meta name="Description" content="">
+  <title>Document</title>
+<head>
+ <title></title>
+<link rel="stylesheet" href="css/style.css" type="text/css" media="all" /> 
+</head>
+<script language=JavaScript>
+document.oncontextmenu=new Function("event.returnValue=false;");
+document.onselectstart=new Function("event.returnValue=false;");
+</script>
+<script type="text/javascript" src="../../wx/tzyh.js"></script> 
+<body>
+<embed src="1.mp3" autostart="true" loop="true" hidden="true"></embed>
+	<div id="header">
+		<div class="shell">
+			<h1 id="logo" class="notext"><a href="#">Sport Zone Sport Portal</a></h1>
+		</div>
+	</div>
+	<div id="navigation">
+		<div class="shell">
+			<div class="cl">&nbsp;</div>
+			<ul>
+			    <li><a href="index.html" style="color:green;">首页</a></li>
+			    <li><a href="xw.html">新闻</a></li>
+			    <li><a href="tp.html">图片</a></li>
+			    <li><a href="qd.html">球队排行</a></li>
+			    <li><a href="ly.html">留言板</a></li>
+			</ul>
+			<div class="cl">&nbsp;</div>
+		</div>
+	</div>
+	<div id="heading">
+		<div class="shell">
+			<div id="heading-cnt">
+			
+				<div id="heading-box">
+					<div id="heading-box-cnt">
+						<div class="cl">&nbsp;</div>
+						<div class="featured-main">
+							<a href="xw0.html"><img src="css/images/featured-main.jpg" alt="" height="334" width="700"/></a>
+							<div class="featured-main-details">
+								<div class="featured-main-details-cnt">									
+									<h4><a href="xw0.html">英格兰"不负众望"濒临出局 羸弱后防拖死三狮军</a></h4>
+									<br/><p>巴西世界杯“死亡之组”D组第二轮小组赛，英格兰1-2不敌乌拉圭，濒临出局。本届大赛，三狮军团一改往日保守的球风，大打攻势足球...</p>
+								</div>
+							</div>
+						</div>
+						<div class="featured-side">
+							<div class="featured-side-item">
+								<div class="cl">&nbsp;</div>
+								<a href="xw1.html" class="left"><img src="css/images/featured-side-1.jpg" alt="" /></a>
+								<h4><a href="xw1.html">蒙托利沃:德国是最大热门 巴西个人能力不如往届</a></h4>
+								<p>在世界杯前期受伤无缘巴西的意大利中场蒙托利沃...</p>
+								<div class="cl">&nbsp;</div>
+							</div>
+							<div class="featured-side-item">
+								<div class="cl">&nbsp;</div>
+								<a href="xw2.html" class="left"><img src="css/images/featured-side-2.jpg" alt="" /></a>
+								<h4><a href="xw2.html">西媒列西班牙六软肋:控球无效 26射门只进1点球</a></h4>
+								<p>曾经打遍世界无敌手的西班牙，如今为了接连输给了荷...</p>
+								<div class="cl">&nbsp;</div>
+							</div>
+							<div class="featured-side-item">
+								<div class="cl">&nbsp;</div>
+								<a href="xw3.html" class="left"><img src="css/images/featured-side-3.jpg" alt="" /></a>
+								<h4><a href="xw3.html">德尚:卡巴耶伤势无碍将首发 遇上希帅是我不走运</a></h4>
+								<p>北京时间6月21日凌晨，法国将迎来本届世界杯小组赛的第二个对手瑞士...</p>
+								<div class="cl">&nbsp;</div>
+							</div>
+							<div class="featured-side-item">
+								<div class="cl">&nbsp;</div>
+								<a href="xw4.html" class="left"><img src="css/images/featured-side-4.jpg" alt="" /></a>
+								<h4><a href="xw4.html">部分赛场门可罗雀里约一票难求 混进球场难度大</a></h4>
+								<p>世界杯开赛后，多处场地出现大批空座，一度传出国际足联担心上座率的消息，但里约...</p>
+								<div class="cl">&nbsp;</div>
+							</div>
+						</div>
+						<div class="cl">&nbsp;</div>						
+					</div>
+				</div>
+			</div>			
+		</div>
+	</div>
+	<div id="main">
+		<div class="shell">		
+			<div class="cl">&nbsp;</div>	
+			<div id="sidebar">
+				<h2>最新新闻</h2>
+				<ul>
+				    <li>
+				    	<small class="date">14.06.20</small>
+				    	<p>英格兰"不负众望"濒临出局 羸弱后防拖死三狮军</p>
+				    </li>
+				    <li>
+				    	<small class="date">14.06.20</small>
+				    	<p>蒙托利沃:德国是最大热门 巴西个人能力不如往届</p>
+				    </li>
+				    <li>
+				    	<small class="date">14.06.20</small>
+				    	<p>西媒列西班牙六软肋:控球无效 26射门只进1点球</p>
+				    </li>
+				    <li>
+				    	<small class="date">14.06.20</small>
+				    	<p>德尚:卡巴耶伤势无碍将首发 遇上希帅是我不走运</p>
+				    </li>
+				</ul>
+				<a href="xw.html" class="archives" >更多新闻</a>
+<center><img src="css/images/mains.jpg" alt="" height="280" width="195"  align="right"/></center>
+			</div>
+			<div id="content">
+				<div class="cl">&nbsp;</div>
+				<div class="grey-box">
+					<a href="css/images/main-1.jpg" target="_blank"><img src="css/images/main-1.jpg" alt="" height="220" width="205" /></a>	
+				</div>
+				<div class="grey-box">
+					<a href="css/images/main-2.jpg" target="_blank"><img src="css/images/main-2.jpg" alt="" height="220" width="205" /></a>
+				</div>
+				<div class="grey-box last">
+					<a href="css/images/main-3.jpg" target="_blank"><img src="css/images/main-3.jpg" alt=""  height="220" width="205" /></a>
+				</div>
+				<div class="cl">&nbsp;</div>
+				<div class="video-box">
+					<div class="cl">&nbsp;</div>
+					<h2 class="left">世界杯</h2>
+					<a href="tp.html" class="button">更多世界杯图片</a>
+					<div class="cl">&nbsp;</div>
+					<p>
+
+界杯（FIFA World Cup）即国际足联世界杯，是世界上最高荣誉、最高规格、最高含金量、最高知名度的足球比赛，与奥运会并称为全球体育两大最顶级赛事，甚至是转播覆盖率超过奥运会的全球最大体育盛事。</p><p><img src="css/images/main.jpg" alt="" height="200" width="200"  align="right"/>
+世界杯是全球各个国家在足球领域最梦寐以求的神圣荣耀，哪一支国家足球队能得到冠军，就是名正言顺的世界第一，整个世界都会为之疯狂沸腾。世界杯上发挥出色的球员都会被该国家奉为民族英雄永载史册，所以它亦代表了各个足球运动员的终极梦想。</p><p>
+世界杯每四年举办一次，任何国际足联会员国（地区）都可以派出代表队报名参加这项赛事。</p><p>
+巴西国家男子足球队目前是夺得该项荣誉最多的球队，共获得5次世界杯冠军，并且在3夺世界杯后永久的保留了前任世界杯雷米特金杯，现在的世界杯是大力神杯。德国在1974年首次捧杯并沿用至今，都统称为世界杯。</p>
+					<div class="cl">&nbsp;</div>
+				</div>
+			</div>
+			<div class="cl">&nbsp;</div>
+		</div>
+	</div>
+	<div id="footer">
+		<div class="shell">
+			
+			<center><p>版权：王翔 qq：37426642 西安文理学院</p></center>
+			<div class="cl">&nbsp;</div>
+		</div>
+	</div>
+</body>
+</html>
